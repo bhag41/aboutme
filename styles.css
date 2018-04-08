@@ -3,17 +3,31 @@
 /*}*/
 
 .jumbotron{
+	background-image: url("/jumbo.jpg");
     margin-top: 50px; 
     padding-top: 50px;
-    background-color: lightgray;
+background: #2BC0E4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #EAECC6, #2BC0E4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .card{
-    float : left;
+    /*float : left;*/
     margin-left: 30px;
     margin-top: 20px;
 }
 .img-fluid{
      height : auto;
      max-width: 100%;
+}
+
+#info{
+	padding-top: 40px;
+}
+
+.alignblock{
+	/*font-size: 1.8em;*/
+	/*padding-top: 10px;*/
+	
 }
 
