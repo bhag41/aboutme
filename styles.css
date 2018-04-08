@@ -31,7 +31,21 @@ background: linear-gradient(to top, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, Fir
 	
 }
 
+.img-fluid{
+	 max-width: 100%;
+	 height: auto;
+}
+
+.centered {
+	color : green;
+	z-index: 100;
+    position: absolute;
+    font-family: Satisfy;
+  font-size: 140px;
+  left: 46%;
+  top: 1050px;
+    
+
 #portfolio{
-	background-image: url("/portfoliobanner.png");
-	width: 100%;
+	padding-top: 200px;
 }
