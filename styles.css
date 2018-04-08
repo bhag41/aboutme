@@ -31,3 +31,7 @@ background: linear-gradient(to top, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, Fir
 	
 }
 
+#portfolio{
+	background-image: url("/portfoliobanner.png");
+	width: 100%;
+}
