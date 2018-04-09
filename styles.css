@@ -21,8 +21,12 @@ background: linear-gradient(to top, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, Fir
      max-width: 100%;
 }
 
+/*.portbox{
+	margin-left: 20px important;
+}*/
+
 #info{
-	padding-top: 40px;
+	padding-top: 70px;
 }
 
 .alignblock{
